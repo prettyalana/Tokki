@@ -10,5 +10,5 @@ while True:
 	rgb.write(num=1, R=255, G=182, B=193)  # Light pink  
 	rgb.write(num=2, R=255, G=105, B=180)  # Hot pink
 	
-	screen.draw_text(text="Pretty Alana",line=0)
+	screen.draw_text(text="Alana",line=0)
 	screen.show_draw()
