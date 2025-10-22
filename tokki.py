@@ -5,7 +5,7 @@ from unihiker_k10 import mic,speaker
 import time
 
 class Tokki:
-    def __init__(self, name="Tokki 토끼"):
+    def __init__(self, name="Tokki"):
         self.name = name
         self.happiness = 50
         self.hunger = 50
